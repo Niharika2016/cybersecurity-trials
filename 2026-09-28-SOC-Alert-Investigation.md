@@ -25,8 +25,8 @@ The exercise involved analyzing phishing and firewall alerts, classifying alerts
 - Severity: Medium
 - Detection: Inbound Email Containing Suspicious External Link
 - Time: 28 September 2026 at 18:11
-- Classification: True Positive
-- Escalation: Yes
+- Classification: False Positive
+- Escalation: NO
 
 ### Investigation
 
